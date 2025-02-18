@@ -1,0 +1,68 @@
+font {
+color : #000000;
+font-size : 16px;
+font-family : "Courier New", Courier, mono;
+text-align:justify;
+text-decoration : none;
+text-height: 16px
+
+}
+a.A {
+color : #ffffff;
+font-size : 16px;
+font-family : "Courier New", Courier, mono;
+text-decoration : none;
+background-color : #000000;
+
+}
+BODY {
+background-color : #000000;
+
+}
+a.A:hover {
+color : #000000;
+background-color : #ffffff;}
+
+a.B { 
+color:#ffffff; 
+text-decoration:underline; 
+font-size:16px; 
+font-family:courier,monospace 
+letter-spacing:0px; word-spacing:0px; 
+
+}
+a.B:hover { 
+color:#aaaaaa; 
+text-decoration:underline; 
+font-size:16px; 
+font-family:courier,monospace 
+letter-spacing:0px; 
+word-spacing:0px; 
+
+}
+a.B:visited { 
+color:#ffffff; 
+text-decoration:underline; 
+font-size:16px; 
+font-family:courier,monospace 
+letter-spacing:0px; 
+word-spacing:0px; 
+
+}
+a.B:active { 
+color:#000000; 
+text-decoration:underline; 
+font-size:16px; 
+font-family:courier,monospace 
+letter-spacing:0px; 
+word-spacing:0px; 
+
+}
+
+#main {
+FONT-SIZE: 16px; 
+COLOR: #000000; 
+LINE-HEIGHT: 16px; 
+FONT-FAMILY: courier,monospace; 
+TEXT-ALIGN: center}
+

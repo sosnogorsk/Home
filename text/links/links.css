@@ -1,0 +1,298 @@
+p:  	{ font-family:geneva,arial,verdana,helvetica; font-size:12px; text-align:justify; line-height:14px; color:#000000; }
+
+#title {
+        FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 12px; FONT-FAMILY: geneva,arial,verdana,helvetica; TEXT-ALIGN: justify; line-height:14px; TEXT-DECORATION: underline
+}
+#main {
+        FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 12px; FONT-FAMILY: geneva,arial,verdana,helvetica; TEXT-ALIGN: justify; line-height:14px; TEXT-DECORATION: none
+}
+A:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #000000; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #000000; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.B:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #996633; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.B:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.B:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #996633; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.B:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.C:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #9eee3f; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.C:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.C:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #9eee3f; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.C:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.D:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc99cc; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.D:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.D:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #2a6b85; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.D:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.E:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff6600; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.E:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.E:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff6600; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.E:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.F:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #bdced3; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.F:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.F:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #bdced3; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.F:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.G:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc9900; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.G:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.G:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc9900; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.G:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.H:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #00ffcc; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.H:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.H:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #00ffcc; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.H:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.I:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #666600; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.I:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.I:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #666600; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.I:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.J:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #6633ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.J:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.J:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #6633ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.J:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.K:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff9900; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.K:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.K:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff9900; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.K:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.L:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc33ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.L:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.L:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc33ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.L:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.M:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #0099ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.M:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.M:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #0099ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.M:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.N:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc3300; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.N:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.N:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc3300; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.N:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.O:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #9900ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.O:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.O:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #9900ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.O:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.P:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #663300; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.P:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.P:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #663300; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.P:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.Q:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #3333ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.Q:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.Q:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #3333ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.Q:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.R:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff99ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.R:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.R:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff99ff; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.R:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.S:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #990000; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.S:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.S:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #990000; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.S:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.T:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc9900; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.T:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.T:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #cc9900; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.T:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.U:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #996666; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.U:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.U:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #996666; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.U:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.V:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #999999; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.V:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.V:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #999999; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.V:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.W:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #af3f3f; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.W:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.W:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #af3f3f; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.W:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.X:link {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #996666; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.X:hover {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.X:visited {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #996666; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+A.X:active {
+        FONT-SIZE: 12px; WORD-SPACING: 0px; COLOR: #ff0099; FONT-FAMILY: geneva,arial,verdana,helvetica letter-spacing:0px; TEXT-DECORATION: none
+}
+
+

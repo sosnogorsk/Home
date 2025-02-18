@@ -1,0 +1,74 @@
+font {
+color : #000000;
+font-size : 40px;
+font-family:geneva,arial,verdana,helvetica;
+text-align:justify;
+text-decoration : none;
+text-height: 40px;
+
+}
+a.A {
+color : #ffffff;
+font-size : 40px;
+font-family : geneva,arial,verdana,helvetica;
+text-decoration : none;
+background-color : #Af3f3f;
+
+}
+BODY {
+background-color : #000000;
+
+}
+a.A:hover {
+color : #000000;
+background-color : #ffffff;}
+
+a.B { 
+color:#ffffff; 
+text-decoration:underline; 
+font-size:12px;
+font-family:geneva,arial,verdana,helvetica;
+letter-spacing:0px; word-spacing:0px; 
+
+}
+a.B:hover { 
+color:#aaaaaa; 
+text-decoration:underline; 
+font-size:12px; 
+font-family:geneva,arial,verdana,helvetica;
+letter-spacing:0px; 
+word-spacing:0px; 
+
+}
+a.B:visited { 
+color:#ffffff; 
+text-decoration:underline; 
+font-size:12px; 
+font-family:geneva,arial,verdana,helvetica;
+letter-spacing:0px; 
+word-spacing:0px; 
+
+}
+a.B:active { 
+color:#000000; 
+text-decoration:underline; 
+font-size:12px; 
+font-family:geneva,arial,verdana,helvetica;
+letter-spacing:0px; 
+word-spacing:0px; 
+
+}
+
+#title {
+FONT-SIZE: 40px; 
+COLOR: #FFFFFF; 
+LINE-HEIGHT: 40px; 
+FONT-FAMILY: geneva,arial,verdana,helvetica; 
+TEXT-ALIGN: left}
+
+#main {
+FONT-SIZE: 18px; 
+COLOR: #FFFFFF; 
+LINE-HEIGHT: 20px; 
+FONT-FAMILY: geneva,arial,verdana,helvetica; 
+TEXT-ALIGN: left}

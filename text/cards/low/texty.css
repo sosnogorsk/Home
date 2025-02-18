@@ -1,0 +1,17 @@
+p: 				{ font-family:courier,monospace; font-size:16px; text-align:justify; line-height:16px; color:#000000; }
+a 				{ color:#000000; text-decoration:none; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a:hover 			{ color:#aaaaaa; text-decoration:none; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a:visited 			{ color:#000000; text-decoration:none; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a:active 			{ color:#ffffff; text-decoration:none; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+
+a.B			{ color:#ffffff; text-decoration:underline; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a.B:hover 			{ color:#aaaaaa; text-decoration:underline; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a.B:visited 			{ color:#ffffff; text-decoration:underline; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a.B:active 			{ color:#000000; text-decoration:underline; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+
+a.C			{ color:#000000; text-decoration:underline; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a.C:hover 			{ color:#aaaaaa; text-decoration:underline; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a.C:visited 			{ color:#000000; text-decoration:underline; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+a.C:active 			{ color:#ffffff; text-decoration:underline; font-size:16px; font-family:courier,monospace; letter-spacing:0px; word-spacing:0px; }
+
+
