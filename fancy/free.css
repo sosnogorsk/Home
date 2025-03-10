@@ -1,0 +1,40 @@
+font {
+color : #000000;
+font-size : 12px;
+font-family : "Courier New", Courier, mono;
+text-decoration : none;
+
+}
+a {
+color : white;
+font-size : 12px;
+font-family : "Courier New", Courier, mono;
+text-decoration : none;
+background-color : #afcfFf;
+
+}
+.main {
+color : black;
+font-style : normal;
+font-size : 12px;
+font-family : "Courier New", Courier, mono;
+background-color : #afcfff;
+line-height : 16pt;
+text-decoration : none;
+position : relative;
+left : 50px;
+top : 30px;
+margin: 10px 10px 10px 10px;
+white-space: normal;
+width: 500px
+}
+
+BODY {
+background-color : #ffffff;
+
+}
+a:hover {
+color : #000000;
+background-color : pink;
+
+}
